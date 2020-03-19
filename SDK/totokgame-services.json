@@ -1,0 +1,11 @@
+{
+	"config":{
+		"appid":"LTAIe4EmdMyxiRpl",
+		"scope":"dd5853def40b2be1214631c7faf48969"
+	},
+	"service":{
+		"payment":true,
+		"push": true,
+		"share": true
+	}
+}
